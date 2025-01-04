@@ -2,6 +2,10 @@
 
 This script fetches Bitcoin (BTC) price data and the AVIV Ratio, processes the data, merges them into a single dataset, and visualizes the log-transformed AVIV Ratio alongside BTC price over time. The goal of this indicator is to identify potential overbought and oversold zones within the typical 4 year cycle of Bitcoin.
 
+Historical performance:
+
+![image](https://github.com/user-attachments/assets/bb663021-1acc-4450-862c-f0bfd75b73d9)
+
 ## Features
 - Fetches BTC price and AVIV Ratio data from APIs.
 - Merges and processes data into a single dataset.
